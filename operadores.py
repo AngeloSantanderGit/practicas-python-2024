@@ -30,3 +30,5 @@ mayor_o_igual = 5 >= 6
 menor_o_igual = 5 <= 6
 
 print(es_distinto_de)
+
+# vamos
